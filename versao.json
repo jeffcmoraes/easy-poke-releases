@@ -1,5 +1,5 @@
 {
-  "versao": "2.0.1",
-  "url": "https://github.com/jeffcmoraes/easy-poke-releases/releases/download/v2.0.1/Easy.Poke.Setup.2.0.1.exe",
-  "notas": "Correções do bug de sessão expirada por meio de uma opção de cache clear"
+  "versao": "2.0.2",
+  "url": "https://github.com/jeffcmoraes/easy-poke-releases/releases/download/v2.0.2/Easy.Poke.Setup.2.0.2.exe",
+  "notas": "Sistema de cores por clã e correções de bugs"
 }
